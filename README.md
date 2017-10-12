@@ -24,6 +24,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 官方案例：
 https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
 
+视频地址教程:
+链接：http://pan.baidu.com/s/1b5n3ki 密码：6pq0
+
 【vuex入门系列01】实战操作加减法案例对vuex感知
 https://segmentfault.com/a/1190000011525583
 
